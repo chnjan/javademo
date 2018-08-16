@@ -1,5 +1,5 @@
 # javademo
-java 高级特性
+java 语言特性
 
 ## 1. java reflex 反射
 ## 2. java proxy 代理
